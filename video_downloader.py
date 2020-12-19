@@ -4,10 +4,10 @@
 from pytube import YouTube
 
 # where to save
-SAVE_PATH = "D:/movies"
+SAVE_PATH = "D:/"
 
 # link of the video to be downloaded
-link = 'https://www.youtube.com/watch?v=PYBIrAZ7KV4'
+link = 'https://www.youtube.com/.........'
 
 try:
     # object creation using YouTube
