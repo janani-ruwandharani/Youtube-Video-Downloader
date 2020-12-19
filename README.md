@@ -3,10 +3,7 @@ Downloads Youtube videos using 'pytube' library
 
 # Installation
 
-First install the 'pytube' library and requirements.txt
-```bash
-pip install pytube
-```
+First install the 'requirements.txt' file
 
 ```bash
 pip install -r requirements.txt
