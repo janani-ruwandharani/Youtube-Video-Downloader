@@ -4,11 +4,11 @@
 from pytube import YouTube
 
 # where to save
-SAVE_PATH = "D:/movies"
+SAVE_PATH = "D:/"
 
 # link of the video to be downloaded
-link = {'https://www.youtube.com/watch?v=PYBIrAZ7KV4', 'https://www.youtube.com/watch?v=mdu5lLpMH_w',
-        'https://www.youtube.com/watch?v=tCjwDv5xGsM '}     # line break -to avoid line being too long -properly aligned
+link = {'https://www.youtube.com/...', 'https://www.youtube.com/...',
+        'https://www.youtube.com/...'}     # line break -to avoid line being too long -properly aligned
 # to check all the links use a for loop
 for i in link:
 
